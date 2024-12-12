@@ -19,6 +19,7 @@ The repository provides the following steps to manage and analyze the data:
 - Populate the tables with sample or real data using INSERT INTO statements.
 - Ensure referential integrity by defining primary and foreign keys for relationships between tables.
 ## Database Creation:
+- <a href="https://github.com/SourabhaSekharRout/Cellphones-Information-Analysis/blob/main/Create%20Database%20and%20Tables.sql">Database & Tables</a>
 ## Business Queries
 The repository provides SQL queries to answer the following business questions:
 - List all the states in which customers have bought cellphones from 2005 till today.
@@ -32,6 +33,7 @@ The repository provides SQL queries to answer the following business questions:
 - Find manufacturers who sold cellphones in 2010 but not in 2009.
 - Analyze the top 100 customers by their average spending, quantity per year, and percentage change in spending.
 ## Analysis:
+- <a href="https://github.com/SourabhaSekharRout/Cellphones-Information-Analysis/blob/main/Cellphones%20Information%20Analysis.sql">Business Analysis</a>
 ## Features
 - Analyze cellphone sales data effectively.
 - Gain insights into customer and manufacturer performance.
