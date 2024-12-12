@@ -16,8 +16,8 @@ This repository provides SQL queries to answer specific business questions relat
 The repository provides the following steps to manage and analyze the data:
 - Use SQL CREATE DATABASE statement to initialize the database.
 - Define the schema using SQL CREATE TABLE statements with appropriate data types for each column.
-- Populate the tables with sample or real data using INSERT INTO statements.
 - Ensure referential integrity by defining primary and foreign keys for relationships between tables.
+- Populate the tables with sample or real data using INSERT INTO statements.
 ## Database Creation:
 - <a href="https://github.com/SourabhaSekharRout/Cellphones-Information-Analysis/blob/main/Create%20Database%20and%20Tables.sql">Database & Tables</a>
 ## Business Queries
